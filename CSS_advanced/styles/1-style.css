@@ -1,4 +1,3 @@
-/*Add a smooth scrolling effect to the document*/
 html {
-    scroll_behavior: smooth;
+    scroll-behavior: smooth;
 }
