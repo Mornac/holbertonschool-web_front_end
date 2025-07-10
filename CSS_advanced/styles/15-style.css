@@ -348,8 +348,7 @@ template {
   display: none;
 }
 
-*::before,
-*::after {
+* {
   box-sizing: border-box;
 }
 
@@ -448,6 +447,5 @@ a:active {
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-color: var(--color-black;
-
+    --section-title-color: var(--color-black);
 }
