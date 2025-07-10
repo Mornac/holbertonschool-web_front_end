@@ -499,7 +499,7 @@ a:active {
 
 .footer-copyright{
   margin: none;
-  size: var(--font-size-small);
+  font-size: var(--font-size-small);
   color: var(--text-color);
 }
 
