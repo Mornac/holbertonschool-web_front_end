@@ -408,7 +408,7 @@ a:active {
 }
 
 .section{
-    padding: 5rem 0;
+    padding: var(--section-padding);
 }
 
 .section-header{
@@ -420,8 +420,8 @@ a:active {
 }
 
 .section-footer{
+    text-align: var(--section-footer-align);  
     padding: var(--section-footer-padding);
-    text-align: var(--section-footer-align);
 }
 
 .section-title{
