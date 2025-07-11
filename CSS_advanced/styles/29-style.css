@@ -494,7 +494,7 @@ a:active {
   padding: var(--footer-padding);
 }
 
-.ul-row{
+ul.row{
   margin: 0;
   padding: 0;
   list-style: none;
@@ -615,7 +615,7 @@ a:active {
   position: var(--header-logo-position);
 }
 
-.header_logo a{
+.header-logo a{
   display: var(--header-logo-link-display);
   position: var(--header-logo-link-position);
   top: var(--header-logo-link-top);
